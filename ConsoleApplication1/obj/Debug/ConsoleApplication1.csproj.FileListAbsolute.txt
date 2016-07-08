@@ -1,0 +1,8 @@
+D:\Training\Tasks\Day4\Day4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Training\Tasks\Day4\Day4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Training\Tasks\Day4\Day4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Training\Tasks\Day4\Day4\ConsoleApplication1\bin\Debug\TaskWithString.dll
+D:\Training\Tasks\Day4\Day4\ConsoleApplication1\bin\Debug\TaskWithString.pdb
+D:\Training\Tasks\Day4\Day4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Training\Tasks\Day4\Day4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Training\Tasks\Day4\Day4\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

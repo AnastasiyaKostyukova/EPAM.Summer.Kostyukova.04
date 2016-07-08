@@ -1,0 +1,8 @@
+D:\Training\Tasks\Day4\Day4\testConsole\bin\Debug\testConsole.exe.config
+D:\Training\Tasks\Day4\Day4\testConsole\bin\Debug\testConsole.exe
+D:\Training\Tasks\Day4\Day4\testConsole\bin\Debug\testConsole.pdb
+D:\Training\Tasks\Day4\Day4\testConsole\obj\Debug\testConsole.exe
+D:\Training\Tasks\Day4\Day4\testConsole\obj\Debug\testConsole.pdb
+D:\Training\Tasks\Day4\Day4\testConsole\bin\Debug\TaskArray.dll
+D:\Training\Tasks\Day4\Day4\testConsole\bin\Debug\TaskArray.pdb
+D:\Training\Tasks\Day4\Day4\testConsole\obj\Debug\testConsole.csprojResolveAssemblyReference.cache

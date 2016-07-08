@@ -1,0 +1,9 @@
+D:\Training\Tasks\Day4\Day4\BubbleSortJaggenArrayTests\bin\Debug\BubbleSortJaggenArrayTests.dll
+D:\Training\Tasks\Day4\Day4\BubbleSortJaggenArrayTests\bin\Debug\BubbleSortJaggenArrayTests.pdb
+D:\Training\Tasks\Day4\Day4\BubbleSortJaggenArrayTests\bin\Debug\nunit.framework.dll
+D:\Training\Tasks\Day4\Day4\BubbleSortJaggenArrayTests\bin\Debug\TaskArray.dll
+D:\Training\Tasks\Day4\Day4\BubbleSortJaggenArrayTests\bin\Debug\TaskArray.pdb
+D:\Training\Tasks\Day4\Day4\BubbleSortJaggenArrayTests\bin\Debug\nunit.framework.xml
+D:\Training\Tasks\Day4\Day4\BubbleSortJaggenArrayTests\obj\Debug\TaskArray.Tests.csprojResolveAssemblyReference.cache
+D:\Training\Tasks\Day4\Day4\BubbleSortJaggenArrayTests\obj\Debug\BubbleSortJaggenArrayTests.dll
+D:\Training\Tasks\Day4\Day4\BubbleSortJaggenArrayTests\obj\Debug\BubbleSortJaggenArrayTests.pdb

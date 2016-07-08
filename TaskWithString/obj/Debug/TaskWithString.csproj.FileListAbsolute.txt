@@ -1,0 +1,5 @@
+D:\Training\Tasks\Day4\Day4\TaskWithString\bin\Debug\TaskWithString.dll
+D:\Training\Tasks\Day4\Day4\TaskWithString\bin\Debug\TaskWithString.pdb
+D:\Training\Tasks\Day4\Day4\TaskWithString\obj\Debug\TaskWithString.csprojResolveAssemblyReference.cache
+D:\Training\Tasks\Day4\Day4\TaskWithString\obj\Debug\TaskWithString.dll
+D:\Training\Tasks\Day4\Day4\TaskWithString\obj\Debug\TaskWithString.pdb

@@ -1,0 +1,5 @@
+D:\Training\Tasks\Day4\Day4\TaskArray\bin\Debug\TaskArray.dll
+D:\Training\Tasks\Day4\Day4\TaskArray\bin\Debug\TaskArray.pdb
+D:\Training\Tasks\Day4\Day4\TaskArray\obj\Debug\TaskArray.csprojResolveAssemblyReference.cache
+D:\Training\Tasks\Day4\Day4\TaskArray\obj\Debug\TaskArray.dll
+D:\Training\Tasks\Day4\Day4\TaskArray\obj\Debug\TaskArray.pdb
